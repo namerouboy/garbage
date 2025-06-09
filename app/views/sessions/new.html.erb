@@ -1,0 +1,9 @@
+<h1>ログイン</h1>
+
+<p class="notice"><%= notice %></p>
+<p class="alert"><%= alert %></p>
+
+<p>LINEでログインするには、下のボタンを押してください。</p>
+
+<%= button_to "LINEでログイン", user_line_omniauth_authorize_path, method: :post %>
+

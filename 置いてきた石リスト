@@ -1,0 +1,3 @@
+・userテーブルのlineidのnotnull制約を外したままです
+・.envがgitignoreに入っているか？
+・リダイレクトのURLがテスト用のままかも

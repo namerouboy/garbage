@@ -61,3 +61,11 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'dotenv-rails', groups: [:development, :test]
+
+# ログイン関連のgem
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-line'
+gem 'omniauth-rails_csrf_protection'

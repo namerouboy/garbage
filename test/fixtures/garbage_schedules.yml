@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  garbage_type: one
+  weekday: 1
+
+two:
+  garbage_type: two
+  weekday: 1

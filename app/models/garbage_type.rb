@@ -1,0 +1,2 @@
+class GarbageType < ApplicationRecord
+end
